@@ -1,4 +1,4 @@
-package jagrat.springframework.petclinic.model;
+package jagrat.springframework.petclinic;
 
 public class Person {
 
