@@ -1,4 +1,4 @@
-package jagrat.springframework.petclinic;
+package jagrat.springframework.petclinic.model;
 
 import java.time.LocalDate;
 
