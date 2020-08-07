@@ -1,4 +1,4 @@
-package jagrat.springframework.petclinic.model;
+package jagrat.springframework.petclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

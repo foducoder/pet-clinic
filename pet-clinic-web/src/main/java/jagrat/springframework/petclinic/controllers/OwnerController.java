@@ -1,4 +1,4 @@
-package jagrat.springframework.petclinic.model.controllers;
+package jagrat.springframework.petclinic.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
